@@ -24,7 +24,7 @@ I am a student of computer and software engineering at the <a href="https://www.
 ## Stats
 
 <a href="https://github.com/GuiNigri/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GuiNigri&count_private=true&show_icons=true&theme=radical&layout=compact" />
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=GuiNigri&count_private=true&show_icons=true&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/GuiNigri/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiNigri&layout=compact&theme=radical" />
