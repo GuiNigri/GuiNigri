@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilherme-tofic-nigri-000817186/)
 
 ### Guilherme Nigri 👋
 I am a student of computer and software engineering at the <a href="https://www.infnet.edu.br/infnet/" target="_blank">Infnet Institute</a>.
