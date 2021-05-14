@@ -14,6 +14,7 @@ I am a student of computer and software engineering at the <a href="https://www.
 
 ### Frameworks
 [<img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />]()
 
 ### IDE
