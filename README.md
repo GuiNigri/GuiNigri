@@ -2,8 +2,8 @@
 
 ### Guilherme Nigri 👋
 I am a student of computer and software engineering at the <a href="https://www.infnet.edu.br/infnet/" target="_blank">Infnet Institute</a>.
-- I am currently interning at  <a href="https://vertigo.com.br/" target="_blank">Vertigo Technology</a>.
-- I am currently participating in the Five Academy project.
+- I am currently a Dev I at <a href="https://portal.icatuseguros.com.br/" target="_blank">Icatu Seguros</a>.
+- I participated in the <a href="https://www.linkedin.com/company/five-academy/" target="_blank">Five Academy project</a>.
 - I developed an ecommerce for the brand Prestige do brasil. || Site: <a href="https://prestigedobrasil.com.br" target="_blank">https://prestigedobrasil.com.br</a> || GitHub Open Source Project: <a href="https://github.com/GuiNigri/Ecommerce" target="_blank">Project</a>
 
 ### Languages
